@@ -1,7 +1,7 @@
 # Treehouse React Basics Course Project
 
 ___
-The app is hosted [HERE]().
+The app is hosted [HERE](https://simplyphy.github.io/Treehouse_ReactBasics/).
 
 This repo includes the completed html, css, and jsx files provided from the [React Basics Treehouse Course](https://teamtreehouse.com/library/react-basics).
 
